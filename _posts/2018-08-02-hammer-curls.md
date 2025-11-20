@@ -8,7 +8,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0IAM2YtviQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IAM2YtviQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 1.똑바로 몸통에 서서 팔 길이에 맞춰 각 손에 덤벨을 세웁니다. 팔꿈치를 몸통에 가깝게합니다.

@@ -10,7 +10,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g13nVd7_T-s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g13nVd7_T-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 목과 어깨 통증의 원인
 

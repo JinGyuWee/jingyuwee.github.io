@@ -10,7 +10,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyCLoPd4TVxB6u2-pS1CwSX3l4j8vXhxP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyCLoPd4TVxB6u2-pS1CwSX3l4j8vXhxP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 체중 감량의 원리
 
