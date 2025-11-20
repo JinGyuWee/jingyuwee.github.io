@@ -7,10 +7,8 @@ tag:
 - 부상예방
 - 안전
 - 운동기법
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyCLoPd4TVxAKOc6w5HvOHh2XJN9i1YzK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 부상의 원인
 

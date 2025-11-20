@@ -7,10 +7,8 @@ tag:
 - 체중감량
 - 운동계획
 - 건강
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyCLoPd4TVxB6u2-pS1CwSX3l4j8vXhxP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 체중 감량의 원리
 
@@ -33,23 +31,29 @@ comments: true
 ## 주간 운동 계획 예시
 
 ### 월요일: 유산소 + 상체
+
 - 조깅 30분
 - 상체 근력 30분
 
 ### 화요일: 유산소
+
 - 빠른 걷기 45분
 
 ### 수요일: 유산소 + 하체
+
 - 자전거 30분
 - 하체 근력 30분
 
 ### 목요일: 휴식 또는 가벼운 유산소
+
 - 요가 또는 스트레칭
 
 ### 금요일: 전신 근력
+
 - 전신 근력 운동 45분
 
 ### 토요일: 유산소
+
 - 등산 또는 수영 60분
 
 ### 일요일: 휴식

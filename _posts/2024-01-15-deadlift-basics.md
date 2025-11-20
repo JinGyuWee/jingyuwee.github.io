@@ -7,10 +7,8 @@ tag:
 - 하체운동
 - 전신운동
 - 근력운동
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/op9u7xXqXW4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 데드리프트란?
 

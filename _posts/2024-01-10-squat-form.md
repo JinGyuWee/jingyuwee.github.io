@@ -7,10 +7,8 @@ tag:
 - 하체운동
 - 자세교정
 - 근력운동
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dy28eq2PjcM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 스쿼트의 중요성
 

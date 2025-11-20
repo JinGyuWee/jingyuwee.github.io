@@ -7,10 +7,8 @@ tag:
 - 근육증량
 - 운동계획
 - 근력운동
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLyCLoPd4TVxAKOc6w5HvOHh2XJN9i1YzK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 근육 증량의 원리
 
@@ -26,26 +24,31 @@ comments: true
 ## 분할 운동 예시
 
 ### 3일 분할
-**Day 1: 가슴, 어깨, 삼두**
+
+#### Day 1: 가슴, 어깨, 삼두
+
 - 벤치프레스
 - 숄더프레스
 - 삼두근 운동
 
-**Day 2: 등, 이두**
+#### Day 2: 등, 이두
+
 - 데드리프트
 - 랫풀다운
 - 이두근 운동
 
-**Day 3: 하체, 코어**
+#### Day 3: 하체, 코어
+
 - 스쿼트
 - 레그프레스
 - 플랭크
 
 ### 4일 분할
-- Day 1: 가슴, 삼두
-- Day 2: 등, 이두
-- Day 3: 하체
-- Day 4: 어깨, 코어
+
+- **Day 1**: 가슴, 삼두
+- **Day 2**: 등, 이두
+- **Day 3**: 하체
+- **Day 4**: 어깨, 코어
 
 ## 운동 변수
 

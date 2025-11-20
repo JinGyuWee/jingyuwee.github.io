@@ -7,10 +7,8 @@ tag:
 - 홈트레이닝
 - 체중운동
 - 운동계획
-- video
 comments: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jP4d-cJDPdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 홈트레이닝의 장점
 
@@ -42,18 +40,21 @@ comments: true
 ## 30분 홈트레이닝 예시
 
 ### 워밍업 (5분)
+
 - 제자리 걷기
 - 팔 회전
 - 무릎 들어올리기
 
 ### 본 운동 (20분)
-- 푸시업: 10회 × 3세트
-- 스쿼트: 15회 × 3세트
-- 플랭크: 30초 × 3세트
-- 런지: 각 다리 10회 × 2세트
-- 크런치: 15회 × 3세트
+
+- **푸시업**: 10회 × 3세트
+- **스쿼트**: 15회 × 3세트
+- **플랭크**: 30초 × 3세트
+- **런지**: 각 다리 10회 × 2세트
+- **크런치**: 15회 × 3세트
 
 ### 쿨다운 (5분)
+
 - 전신 스트레칭
 - 근육 긴장 완화
 
