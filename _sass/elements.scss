@@ -122,6 +122,8 @@ img {
 	border: 3px solid $white;
 	height: 150px;
 	width: 150px;
+	object-fit: cover;
+	object-position: center;
 }
 .author-photo {
     background-color: $white;

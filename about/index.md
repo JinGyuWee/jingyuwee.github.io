@@ -10,7 +10,7 @@ comments: false
 
 ## Licence
 * 사회체육학과 졸업
-* 스포츠지도사 2급
+* 2급 생활스포츠지도사(보디빌딩)
 * 체육교정사 1급
 * 스포츠마사지 1급
 * 재활테이핑 1급
@@ -22,11 +22,12 @@ comments: false
 
 ## Career 
 
-* SPA7 Fitness Club / PT Trainer
-* SEVEN GYM / PT Trainer
-* YoungBody GYM/ PT Trainer
-* TheBody Gym / PT Team Leader
-* 현) TheStory GYM / PT Trainer
+* 현) 닥터피티 / PT Trainer
+* 디바짐 / PT Trainer
+* 제이큐짐 / PT Trainer
+* 노블스포렉스 / PT Trainer
+* 더스토리짐 / PT Trainer
+* 스파세븐짐 / PT Trainer
 
 ## My Photo 
 
@@ -39,6 +40,6 @@ comments: false
 
 ## comments
 
-운동경력, 체력여하에 따라 프로그램을 계획하여 서서히 근력을 증가시켜 생활에 활력과 함께 건강한 삶을 만들고 싶습니다.
+"오래 앉아 일하는 당신의 몸, 1:1 맞춤형 컨디셔닝 솔루션으로 활력을 되찾아 드립니다."
 
-습관적 운동으로 건강함을 선사하기 위해 매 시간 회원님과 함께 즐기며 운동하는 트레이너가 되겠습니다. 
+단순히 근육을 키우는 것을 넘어, 개인의 컨디션과 업무 환경에 맞는 프로그램을 설계하여 지친 몸에 최적의 활력을 되돌려 드립니다. 운동이 지루한 숙제가 아닌, 기다려지는 즐거움이 되도록 함께 땀 흘리며 꾸준히 이어갈 수 있는 건강한 습관을 만들어 드릴게요. 
